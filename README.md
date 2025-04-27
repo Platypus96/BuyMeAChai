@@ -16,7 +16,7 @@ A decentralized tipping application built with Next.js and Ethereum smart contra
 - **Blockchain:** Ethereum, Ethers.js, MetaMask
 - **Styling:** Custom CSS with glassmorphism, Google Fonts (Inter)
 - **Smart Contract:** Solidity (deployed at `0x608f745a736Da98650f9A35b086409794F6D628b`)
-- **Environment:** [Replit](https://replit.com/@adarshkr1380/BuyMeACoffee-Solidity-DeFi-Tipping-app)
+- **Environment:** [Replit](https://replit.com/@adarshkr1380/BuyMeACoffee-Solidity-DeFi-Tipping-app?v=1)
 
 ## 📋 Prerequisites
 
