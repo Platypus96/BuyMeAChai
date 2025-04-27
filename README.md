@@ -1,7 +1,3 @@
-Here's a refined version of your README that presents the details in a more organized and polished manner:
-
----
-
 # Buy Adarsh a Chai! ☕  
 A decentralized tipping application built with Next.js and Ethereum smart contracts, allowing users to send "chai" (tips) to Adarsh with personalized messages. Powered by MetaMask for wallet integration, this app features a modern, glassmorphic UI with smooth animations and responsive design.
 
@@ -156,6 +152,3 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 Have feedback or issues? Create an issue or ping **@Adarsh** on Replit!
 
----
-
-This updated README gives a clear and concise overview of the project, setup instructions, usage, styling details, and troubleshooting steps. It also uses a more formal tone and structure to make it easier for other developers to understand and contribute to the project.
